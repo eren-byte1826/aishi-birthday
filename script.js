@@ -13,14 +13,14 @@ const CONFIG = {
 
   // The opening screen (Screen 1)
   opening: {
-    greeting: "Hey, Aishi.",
+    greeting: "Hey, LITTLE MISS SUNSHINE.",
     subtext: "I made something for you."
   },
 
   // The hero screen right after entering (Screen 2)
   hero: {
-    title: "Happy Birthday, Aishi ❤",
-    subtitle: "Today is about you."
+    title: "Happy Birthday, SREE ❤",
+    subtitle: "Today is about you, and this little gift for you would belong to you only forever"
   },
 
   // "For You" — your personal letter to her. This can be as long as you like.
