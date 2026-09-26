@@ -35,7 +35,7 @@ const CONFIG = {
   // "Little Moments" — your photo gallery. Add or remove entries freely.
   // Put your photo files inside the /images folder and match the file name.
   photos: [
-    { src: "images/photo1.jpg", caption: "That day." },
+    { src: ""C:\Users\LENOVO\Downloads\IMG_20241210_162735_314.jpg"", caption: "That day." },
     { src: "images/photo2.jpg", caption: "One of my favorite memories." },
     { src: "images/photo3.jpg", caption: "Us being idiots." },
     { src: "images/photo4.jpg", caption: "That day." },
